@@ -1,4 +1,3 @@
-# Logistic-Regression-Lab-for-Data-Breach-Dataset
 # Logistic Regression Lab – Data Breach Analysis
 
 This repository contains my completed homework assignment for the Logistic Regression Lab in the **Introduction to Machine Learning** course. The lab explores how logistic regression can be applied to real-world data breach incidents to classify whether a breach affects a large number of individuals.
